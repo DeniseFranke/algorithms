@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class NaturalSorting {
 
   /**
-   * Natural Order Sorting ints (no Comparator)
+   * Natural Order Sorting ints (no Comparator) 
    * 
    * @param {int[] Array} intArray
    */

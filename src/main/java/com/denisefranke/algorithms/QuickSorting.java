@@ -8,7 +8,7 @@ public class QuickSorting {
      * of an algorithm over Bubble Sorting and Insertion sorting.  This returns average performance.  
      * The separation of the elements into two separate lists is O(n), and each recursive is performed on 
      * half each list, which results in performance of O(n log n).  The choice of the pivot is key here.  
-     * Also note this is a candidate for parallel processing.
+     * Also note this is a candidate for parallel processing.  
      * 
      * @param {int[] Array} intArr
      */

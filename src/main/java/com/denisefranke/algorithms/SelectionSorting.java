@@ -3,7 +3,7 @@ package com.denisefranke.algorithms;
 public class SelectionSorting {
 
     /**
-     * Selection Sorting
+     * Selection Sorting - 
      * 
      * @param {int[] Array} intArr
      */

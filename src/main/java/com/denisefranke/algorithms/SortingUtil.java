@@ -1,5 +1,10 @@
 package com.denisefranke.algorithms;
-
+/**
+ * 
+ * SortingUtil - indexSmallest and swap values
+ * @author Denise Franke
+ * 
+ */
 class SortingUtil {
 
 	//m = minimum
@@ -16,6 +21,13 @@ class SortingUtil {
         int t = intArr[i];
         intArr[i] = intArr[j];
         intArr[j] = t;
+    }
+    
+  //swap values
+    static void swap(String[] strArr, int i, int j) {
+        String t = strArr[i];
+        strArr[i] = strArr[j];
+        strArr[j] = t;
     }
 
   

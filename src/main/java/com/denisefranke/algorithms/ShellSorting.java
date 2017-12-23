@@ -3,7 +3,7 @@ package com.denisefranke.algorithms;
 public class ShellSorting {
 
     /**
-     * Shell Sorting
+     * Shell Sorting -
      * 
      * @param {int[] Array} intArr
      */

@@ -3,7 +3,7 @@ package com.denisefranke.algorithms;
 public class CountSorting {
     
 	/**
-	 * Count Sorting
+	 * Count Sorting - 
 	 * 
 	 * @param {int[] Array} intArr
 	 */

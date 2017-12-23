@@ -7,7 +7,7 @@ public class MergeSorting {
      * This is also an example of merging two sorted lists.
      *  Note that the subList method on List takes two parameters, from and to.  
      *  From is inclusive, and to is exclusive.  Like Quick Sorting, merge sorting has a performance 
-     *  of O(n log n). Each merge operation would be O(n), and each recursive call works half the list.
+     *  of O(n log n). Each merge operation would be O(n), and each recursive call works half the list. 
      * 
      * @param {int[] Array} intArr
      */

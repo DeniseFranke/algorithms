@@ -12,7 +12,7 @@ public class InsertSorting {
      * you put each element into the new list at the head of the list, which is O(n).
      * Also note, the algorithm described here uses twice as much space to sort the list 
      * because a new list is returned, where the bubble sort algorithm only used one 
-     * extra space in memory, to hold the value temporarily while being swapped.
+     * extra space in memory, to hold the value temporarily while being swapped. 
      * 
      * @param {int[] Array} intArr
      */
